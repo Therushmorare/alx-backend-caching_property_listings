@@ -77,4 +77,3 @@ SESSION_CACHE_ALIAS = "default"
 
 # Static files
 STATIC_URL = "/static/"
-
